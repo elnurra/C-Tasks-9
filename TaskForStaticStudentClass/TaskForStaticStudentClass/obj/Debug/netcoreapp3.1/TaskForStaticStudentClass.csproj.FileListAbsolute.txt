@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\bin\Debug\netcoreapp3.1\TaskForStaticStudentClass.exe
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\bin\Debug\netcoreapp3.1\TaskForStaticStudentClass.deps.json
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\bin\Debug\netcoreapp3.1\TaskForStaticStudentClass.runtimeconfig.json
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\bin\Debug\netcoreapp3.1\TaskForStaticStudentClass.runtimeconfig.dev.json
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\bin\Debug\netcoreapp3.1\TaskForStaticStudentClass.dll
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\bin\Debug\netcoreapp3.1\TaskForStaticStudentClass.pdb
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\obj\Debug\netcoreapp3.1\TaskForStaticStudentClass.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\obj\Debug\netcoreapp3.1\TaskForStaticStudentClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\obj\Debug\netcoreapp3.1\TaskForStaticStudentClass.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\obj\Debug\netcoreapp3.1\TaskForStaticStudentClass.AssemblyInfo.cs
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\obj\Debug\netcoreapp3.1\TaskForStaticStudentClass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\obj\Debug\netcoreapp3.1\TaskForStaticStudentClass.dll
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\obj\Debug\netcoreapp3.1\TaskForStaticStudentClass.pdb
+C:\Users\user\source\repos\TaskForStaticStudentClass\TaskForStaticStudentClass\obj\Debug\netcoreapp3.1\TaskForStaticStudentClass.genruntimeconfig.cache

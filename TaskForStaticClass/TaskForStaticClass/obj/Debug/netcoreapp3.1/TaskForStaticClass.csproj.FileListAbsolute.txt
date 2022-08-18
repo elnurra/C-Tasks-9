@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\bin\Debug\netcoreapp3.1\TaskForStaticClass.exe
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\bin\Debug\netcoreapp3.1\TaskForStaticClass.deps.json
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\bin\Debug\netcoreapp3.1\TaskForStaticClass.runtimeconfig.json
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\bin\Debug\netcoreapp3.1\TaskForStaticClass.runtimeconfig.dev.json
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\bin\Debug\netcoreapp3.1\TaskForStaticClass.dll
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\bin\Debug\netcoreapp3.1\TaskForStaticClass.pdb
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\obj\Debug\netcoreapp3.1\TaskForStaticClass.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\obj\Debug\netcoreapp3.1\TaskForStaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\obj\Debug\netcoreapp3.1\TaskForStaticClass.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\obj\Debug\netcoreapp3.1\TaskForStaticClass.AssemblyInfo.cs
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\obj\Debug\netcoreapp3.1\TaskForStaticClass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\obj\Debug\netcoreapp3.1\TaskForStaticClass.dll
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\obj\Debug\netcoreapp3.1\TaskForStaticClass.pdb
+C:\Users\user\source\repos\TaskForStaticClass\TaskForStaticClass\obj\Debug\netcoreapp3.1\TaskForStaticClass.genruntimeconfig.cache
